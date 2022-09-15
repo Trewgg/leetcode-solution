@@ -11,7 +11,7 @@ import "fmt"
 func main() {
 
 	target := 6
-	nums := []int{3, 2, 3}
+	nums := []int{3, 2, 4}
 	res := twoSum(nums, target)
 	fmt.Println(res)
 }
